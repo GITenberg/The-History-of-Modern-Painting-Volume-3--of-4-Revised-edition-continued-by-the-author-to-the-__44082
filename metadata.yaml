@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42409'
     url: http://www.gutenberg.org/2009/agents/42409
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44082#The-History-of-Modern-Painting-Volume-3--of-4-Revised-edition-continued-by-the-author-to-the-_
 gutenberg_issued: '2013-10-31'
 gutenberg_type: Text
 identifiers:
